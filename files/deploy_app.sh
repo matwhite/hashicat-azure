@@ -10,8 +10,9 @@ cat << EOM > /var/www/html/index.html
 
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
-  <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own. 
+  <center><img src="https://i.pinimg.com/474x/a5/5d/6c/a55d6c648a0c90098018e0fdf7f8dce7--carnifex-deathcore.jpg"></img></center>
+  <center><h2>\m/ Meow World! \m/</h2></center>
+  Welcome to ${PREFIX}'s app. Rock on!!!
   <!-- END -->
   
   </div>
